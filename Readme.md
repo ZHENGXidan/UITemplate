@@ -1,0 +1,1 @@
+### dotnet 6 React Typescript Template
